@@ -2,7 +2,7 @@
 
 This plugins allows you to scroll past the bottom of your page content.
 
-![scroll past the bottom](./screenshots/demo.webm)
+![scroll past the bottom](./screenshots/demo.mp4)
 
 ## Settings
 
