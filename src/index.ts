@@ -28,7 +28,7 @@ const main = () => {
   logseq.provideStyle({
     id: PL.id,
     style: `
-    .cp__sidebar-main-content > div {
+    .cp__sidebar-main-content > div:not(:has(#global-graph)) {
       padding-bottom: var(--ls-scroll-past-bottom-percentage);
     }
 `,
