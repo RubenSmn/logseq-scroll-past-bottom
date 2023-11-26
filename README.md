@@ -6,7 +6,8 @@ This simple plugin enables you to scroll beyond the last line of a page.
 
 ## Settings
 
-You can change the default over scroll of **50%** in the settings of the plugin.
+- change the default over scroll of **50%**
+- change whether you scroll past the last line or always see it
 
 ## License
 
