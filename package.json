@@ -1,7 +1,7 @@
 {
   "name": "logseq-scroll-past-bottom",
   "version": "1.0.0",
-  "description": "A simple plugin that allows you to scroll past the bottom of a page",
+  "description": "A simple plugin that enables you to scroll beyond the last line of a page",
   "main": "dist/index.html",
   "targets": {
     "main": false

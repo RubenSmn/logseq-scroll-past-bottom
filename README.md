@@ -1,6 +1,6 @@
 # logseq-scroll-past-bottom
 
-This plugins allows you to scroll past the bottom of your page content.
+This simple plugin enables you to scroll beyond the last line of a page.
 
 ![plugin demo](./screenshots/demo.gif)
 
